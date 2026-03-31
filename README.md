@@ -63,4 +63,4 @@ Used for exploration and LTX-2 motion transfer throughout the project.
 | | |
 |---|---|
 | **Dance** | Amanda |
-| **Production** | Unfair Studio x Koshi Mazaki |
+| **Production** | [Unfair Studio[ (https://www.unfairstudio.ai/en) x [Koshi Mazaki](https://github.com/koshimazaki) |
