@@ -5,13 +5,13 @@ Dance by **AMANDA**
 
 AI dance film exploring motion transfer, generative video, and fabric simulation through custom-trained models and multi-tool pipelines.
 
-[Watch the film](https://muzed.pages.dev/) | [Motion LoRA on HuggingFace](https://huggingface.co/KoshiMazaki/muzed-motion-lora)
+[Check the pipeline](https://muzed.pages.dev/) | [Motion LoRA on HuggingFace](https://huggingface.co/KoshiMazaki/muzed-motion-lora)
 
 ---
 
 ## Process
 
-Real choreography recorded by Amanda, sliced into 125 clips, captioned with movement vocabulary, and used to train a custom Motion LoRA on LTX-2. The trained model captures her specific movement quality, gestures, weight shifts, and camera dynamics, things the base model doesn't know.
+Real choreography recorded by Amanda, sliced into 5s, 14s and 11s clips, captioned with movement vocabulary, and used to train a custom Motion LoRA on LTX-2. The trained model captures her specific movement quality, gestures, weight shifts, and camera dynamics, things the base model doesn't know.
 
 The Motion LoRA was used for exploration and motion transfer with LTX-2, allowing generated footage to carry Amanda's choreographic signature into new visual worlds.
 
@@ -29,7 +29,7 @@ All still images were generated with Flux.2 Pro. Midjourney was used for early v
 
 | Tool | Role |
 |------|------|
-| **LTX-2.3** | Motion LoRA training, motion transfer, fabric sequences, transitions, particle effects |
+| **LTX-2 and LTX-2.3** | Motion LoRA training, motion transfer, fabric sequences, transitions, particle effects |
 | **Kling 3.0 Motion** | Main footage, long-form dance sequences |
 | **Flux.2 Pro** | Still image generation |
 | **Midjourney** | Visual exploration, mood boards |
@@ -58,12 +58,4 @@ Used for exploration and LTX-2 motion transfer throughout the project.
 | | |
 |---|---|
 | **Dance** | Amanda |
-| **Direction, AI pipeline, LoRA training** | Koshi Mazaki |
 | **Production** | Unfair Studio x Koshi Mazaki |
-
----
-
-## Links
-
-- **Film:** [muzed.pages.dev](https://muzed.pages.dev/)
-- **Motion LoRA:** [huggingface.co/KoshiMazaki/muzed-motion-lora](https://huggingface.co/KoshiMazaki/muzed-motion-lora)
