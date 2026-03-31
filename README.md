@@ -1,4 +1,4 @@
-# MUSED
+# MUZED
 
 **Unfair Studio x Koshi Mazaki**
 Dance by **AMANDA**
