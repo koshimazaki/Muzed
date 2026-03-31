@@ -1,12 +1,10 @@
 # MUZED
 
 **Unfair Studio x Koshi Mazaki**
-Dance by **AMANDA**
 
 AI dance film exploring motion transfer, generative video, and fabric simulation through custom-trained models and multi-tool pipelines.
 
-MUZED explores dance as time travel. The past of civilizations lives in the body. Dance exists only in the present.
-Electronic music projects it into the future. These temporal states don’t follow each other. They coexist.
+MUZED aesthetically explores dance as time travel. The past of civilizations lives in the body. Dance exists only in the present. Electronic music projects it into the future. These temporal states coexist.
 
 Through AI, movement becomes a continuum where past, present, and future merge. The dancer doesn’t travel through time. They embody it.
 
@@ -16,7 +14,7 @@ Through AI, movement becomes a continuum where past, present, and future merge. 
 
 ## Process
 
-Real choreography recorded by Amanda, sliced into 5s, 14s and 11s clips, captioned with movement vocabulary, and used to train a custom Motion LoRA on LTX-2. The trained model captures her specific movement quality, gestures, weight shifts, and camera dynamics, things the base model doesn't know.
+Real choreography by Amanda, sliced into 5s, 14s and 11s clips, captioned with movement vocabulary, and used to train a custom Motion LoRA on LTX-2. The trained model captures her specific movement quality, gestures, weight shifts, and camera dynamics, things the base model doesn't know.
 
 The Motion LoRA was used for exploration and motion transfer with LTX-2, allowing generated footage to carry Amanda's choreographic signature into new visual worlds.
 
@@ -24,7 +22,7 @@ Main footage was produced using Kling 3.0 Motion for its temporal coherence and 
 
 Fabric sequences were generated with LTX-2.3, which handles flowing material and texture particularly well.
 
-Transitions and particle effects were built as ComfyCloud workflows on LTX-2.3, giving precise control over timing and visual layering.
+Transitions and particle effects were built using ComfyCloud workflows on LTX-2.3, giving precise control over timing and visual transitions.
 
 All still images were generated with Flux.2 Pro. Midjourney was used for early visual exploration and mood boarding.
 
