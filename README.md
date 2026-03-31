@@ -10,7 +10,7 @@ Electronic music projects it into the future. These temporal states don’t foll
 
 Through AI, movement becomes a continuum where past, present, and future merge. The dancer doesn’t travel through time. They embody it.
 
-[Check the pipeline](https://muzed.pages.dev/) | [Motion LoRA on HuggingFace](https://huggingface.co/KoshiMazaki/muzed-motion-lora)
+[The pipeline](https://muzed.pages.dev/) | [Motion LoRA on HuggingFace](https://huggingface.co/KoshiMazaki/muzed-motion-lora)
 
 ---
 
