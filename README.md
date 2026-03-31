@@ -4,9 +4,7 @@
 
 AI dance film exploring motion transfer, generative video, and fabric simulation through custom-trained models and multi-tool pipelines.
 
-MUZED aesthetically explores dance as time travel. The past of civilizations lives in the body. Dance exists only in the present. Electronic music projects it into the future. These temporal states coexist.
-
-Through AI, movement becomes a continuum where past, present, and future merge. The dancer doesn’t travel through time. They embody it.
+Digital garments, inherited gestures, synthetic sound. Through all three elements the dancer embodies vibration as ritual aesthetics.
 
 [The pipeline](https://muzed.pages.dev/) | [Motion LoRA on HuggingFace](https://huggingface.co/KoshiMazaki/muzed-motion-lora)
 
