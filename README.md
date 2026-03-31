@@ -8,6 +8,8 @@ Digital garments, inherited gestures, synthetic sound. Through all three element
 
 [The pipeline](https://muzed.pages.dev/) | [Motion LoRA on HuggingFace](https://huggingface.co/KoshiMazaki/muzed-motion-lora)
 
+![Muzed](https://github.com/user-attachments/assets/daf6102f-e5ca-432d-9c42-3c643ab5d3cc)
+
 ---
 
 ## Process
