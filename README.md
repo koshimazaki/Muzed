@@ -5,6 +5,11 @@ Dance by **AMANDA**
 
 AI dance film exploring motion transfer, generative video, and fabric simulation through custom-trained models and multi-tool pipelines.
 
+MUZED explores dance as time travel. The past of civilizations lives in the body. Dance exists only in the present.
+Electronic music projects it into the future. These temporal states don’t follow each other. They coexist.
+
+Through AI, movement becomes a continuum where past, present, and future merge. The dancer doesn’t travel through time. They embody it.
+
 [Check the pipeline](https://muzed.pages.dev/) | [Motion LoRA on HuggingFace](https://huggingface.co/KoshiMazaki/muzed-motion-lora)
 
 ---
